@@ -1,0 +1,45 @@
+_repo: Autobiography-of-Andrew-Carnegie_17976
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carnegie, Andrew
+    birthdate: 1835
+    deathdate: 1919
+    gutenberg_agent_id: '2029'
+    url: http://www.gutenberg.org/2009/agents/2029
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Carnegie
+  editor:
+    agent_name: Van Dyke, John Charles
+    aliases:
+    - Dyke, John Charles Van
+    - Van Dyke, John C. (John Charles)
+    - Dyke, John C. Van
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '7733'
+    url: http://www.gutenberg.org/2009/agents/7733
+    wikipedia: http://en.wikipedia.org/wiki/John_Charles_Van_Dyke
+description: Entrepreneur and philanthropist Andrew Carnegie (1835-1919) was born
+  in Scotland and emigrated to America as a teenager. His Carnegie Steel Company launched
+  the steel industry in Pittsburgh, and after its sale to J.P. Morgan, he devoted
+  his life to philanthropic causes. His charitable organizations built more than 2,500
+  public libraries around the world, and gave away more than $350 million during his
+  lifetime. -- amazon.com.
+gutenberg_issued: '2006-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17976'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philanthropists -- United States -- Biography'
+- !lcsh 'Carnegie, Andrew, 1835-1919'
+- !lcc 'CT'
+- !lcsh 'Industrialists -- United States -- Biography'
+title: Autobiography of Andrew Carnegie
+url: http://www.gutenberg.org/ebooks/17976
